@@ -1,3 +1,4 @@
+![BMI_User Interface](https://user-images.githubusercontent.com/86672006/131376188-1b0c688f-07d8-4e3b-9017-0dfe9da67ddd.png)
 # BMI-Calculator
 BMI Calculator using HTML ,CSS , Javascript
 
