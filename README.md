@@ -1,4 +1,3 @@
-![BMI_User Interface](https://user-images.githubusercontent.com/86672006/131376188-1b0c688f-07d8-4e3b-9017-0dfe9da67ddd.png)
 # BMI-Calculator
 BMI Calculator using HTML ,CSS , Javascript
 
@@ -9,3 +8,6 @@ in kilograms and m2 is their height in meters squared.
 ## Our Goal -
 The objective of this tutorial is to look at how we can customize Html, CSS, and Javascript to achieve our own 
 BMI Calculator beautiful user interface designs.
+
+
+![BMI_User Interface](https://user-images.githubusercontent.com/86672006/131376290-600a42bb-04cf-4349-b83b-1f16c0b0022f.png)
